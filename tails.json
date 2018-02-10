@@ -1,0 +1,9 @@
+{
+	"dependencies": [
+		"m.youtube.com",
+		"youtube.com",
+		"*.googlevideo.com",
+		"fcmatch.youtube.com",
+		"doubleclick.net"
+	]
+}
